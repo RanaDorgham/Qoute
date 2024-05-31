@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(174, 43, 226);
+}
+.message{
+    text-align: center;
+}
+h1 {
+ 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size:  400%;
+}
+.button{
+    color: gray;
+}
